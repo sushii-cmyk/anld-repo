@@ -1,0 +1,6 @@
+__ignore__
+_background_
+mouse_1
+mouse_0
+nose_0
+nose_1

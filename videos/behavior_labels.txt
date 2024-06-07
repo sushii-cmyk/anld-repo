@@ -1,0 +1,11 @@
+__ignore__
+_background_
+mouse_0
+mouse_1
+nose2nose
+nose2back
+back2nose
+side2nose
+nose2side
+rear_0
+rear_1

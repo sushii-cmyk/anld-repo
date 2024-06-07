@@ -1,0 +1,11 @@
+DATASET:
+    name: 'Cd1-Social-Test-crop'
+    train_info: 'Cd-Social-Test-crop_bp_coco_dataset\train\annotations.json'
+    train_images: 'Cd-Social-Test-crop_bp_coco_dataset\train'
+    valid_info: 'Cd-Social-Test-crop_bp_coco_dataset\valid\annotations.json'
+    valid_images: 'Cd-Social-Test-crop_bp_coco_dataset\valid'
+    class_names: ['mouse_1', 'mouse_0', 'nose_0', 'nose_1']
+YOLACT:
+    name: 'Cd1-Social-Test-crop'
+    dataset: 'dataset_Cd1-Social-Test-crop_coco'
+    max_size: 512
